@@ -10,7 +10,7 @@ Turma: 2º ano — Técnico em Informática Integrado
 - Perto de Bibliotecario eu coloquei 1 porque um emprestimo só pode ser realizado por um bibliotecario
 
 ## Rastreabilidade (nível B)
-- A operação confirmarReserva() da classe reserva atende ao caso de uso 1.4
+- A operação confirmarReserva() da classe Reserva atende ao caso de uso 1.4
 
 ## Autoavaliação
 - Conceito que pretendo: B
