@@ -1,5 +1,5 @@
 # Atividade 18 — Diagrama de Classes do BiblioTech
-Nome: Gustavo Macie da Silva
+Nome: Gustavo Maciel da Silva
 Turma: 2º ano — Técnico em Informática Integrado
 
 ## Diagrama
